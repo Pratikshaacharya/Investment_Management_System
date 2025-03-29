@@ -1,4 +1,4 @@
-## Investment Managemenet System
+## Investment Management System
 
 The primary objective of the investment management system involves designing a robust database system to handle various aspects of investment, including portfolios, transactions, securities, and reporting.
 
